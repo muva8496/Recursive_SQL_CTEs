@@ -1,0 +1,10 @@
+level,category_id,category_name,path
+1,1,All Retail Stock,All Retail Stock
+2,3,Beverages,All Retail Stock -> Beverages
+3,6,Soda & Juices,All Retail Stock -> Beverages -> Soda & Juices
+2,2,Dry Foods & Groceries,All Retail Stock -> Dry Foods & Groceries
+3,4,Bakery,All Retail Stock -> Dry Foods & Groceries -> Bakery
+4,8,Buns & Rolls,All Retail Stock -> Dry Foods & Groceries -> Bakery -> Buns & Rolls
+4,7,Loaf Bread,All Retail Stock -> Dry Foods & Groceries -> Bakery -> Loaf Bread
+3,5,Cereals & Grains,All Retail Stock -> Dry Foods & Groceries -> Cereals & Grains
+4,9,Maize Meal (2kg),All Retail Stock -> Dry Foods & Groceries -> Cereals & Grains -> Maize Meal (2kg)
